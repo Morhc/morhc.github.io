@@ -1,7 +1,7 @@
 {
   text-align: center;
   font-size: 1em;
-  color: #009;
+  color: powderblue;
   margin-bottom: .3em;
   text-decoration: underline;
 }
@@ -9,6 +9,7 @@
 table {
   margin: .3em;
   width: 320px;
+  background-color: yellow;
 }
 
 th {
