@@ -2,7 +2,7 @@ h1 {
   text-align: center;
   font-size: 3em;
   font-family: monospace;
-  color: black;
+  color: rgb(171,165,178);
   margin-bottom: .3em;
   text-decoration: bold;
 }
@@ -11,9 +11,13 @@ h2 {
   text-align: left;
   font-size: 1em;
   font-family: monospace;
-  color: green;
+  color: rgb(209,154,102);
   margin-bottom: .1em;
   text-decoration: underline;
+}
+
+body{
+  background-color: rgb(33,37,43);
 }
 
 .monospace{
