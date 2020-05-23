@@ -1,2 +1,5 @@
-let d = new Date();
-alert("Today's date is " +d);
+function NewTab(){
+  while(true){
+    window.open("https://www.google.com")
+  }
+}

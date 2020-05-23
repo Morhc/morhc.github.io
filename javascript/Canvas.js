@@ -4,8 +4,8 @@ function draw(){
   if (canvas.getContext) {
     var context = canvas.getContext('2d');
 
-    var X = canvas.width;
-    var Y = canvas.height;
+    var X = 0;
+    var Y = 0;
 
     var R = 75;
     context.beginPath();
