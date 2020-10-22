@@ -1,0 +1,52 @@
+<html>
+<title>Josh's Gaming</title>
+<link href="css/StyleSheet.css" rel="stylesheet" />
+
+<body>
+  <h1>Game 3</h1>
+  <header><a href="index.html">Home</a></header>
+</body>
+
+https://www.html5rocks.com/en/tutorials/getusermedia/intro/
+<video autoplay></video>
+<p><button class="capture-button">Capture video</button>
+<p><button id="cssfilters-apply">Apply CSS filter</button></p>
+
+<script>
+const captureVideoButton =
+  document.querySelector('#cssfilters .capture-button');
+const cssFiltersButton =
+  document.querySelector('#cssfilters-apply');
+const video =
+  document.querySelector('#cssfilters video');
+
+let filterIndex = 0;
+const filters = [
+  'grayscale',
+  'sepia',
+  'blur',
+  'brightness',
+  'contrast',
+  'hue-rotate',
+  'hue-rotate2',
+  'hue-rotate3',
+  'saturate',
+  'invert',
+  ''
+];
+
+captureVideoButton.onclick = function() {
+  navigator.mediaDevices.getUserMedia(constraints).
+    then(handleSuccess).catch(handleError);
+};
+
+cssFiltersButton.onclick = video.onclick = function() {
+  video.className = filters[filterIndex++ % filters.length];
+};
+
+function handleSuccess(stream) {
+  video.srcObject = stream;
+}
+</script>
+
+</html>
