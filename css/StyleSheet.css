@@ -1,6 +1,6 @@
 h1 {
   text-align: center;
-  font-size: 7em;
+  font-size: 6em;
   font-family: monospace;
   color: rgb(171,165,178);
   margin-bottom: .3em;
@@ -9,11 +9,27 @@ h1 {
 
 h2 {
   text-align: center;
+  font-size: 4em;
+  font-family: monospace;
+  color: rgb(171,165,178);
+  margin-bottom: .1em;
+}
+
+h3 {
+  text-align: center;
   font-size: 2em;
   font-family: monospace;
-  color: rgb(209,154,102);
+  color: rgb(171,165,178);
   margin-bottom: .1em;
-  text-decoration: underline;
+}
+
+
+h4 {
+  text-align: left;
+  font-size: 2em;
+  font-family: monospace;
+  color: rgb(171,165,178);
+  margin-bottom: .1em;
 }
 
 body{
@@ -22,4 +38,25 @@ body{
 
 .monospace{
   font-family: "Lucida Console", Courier, monospace;\
+}
+
+
+.buttonposition {
+  margin: 0;
+  position: absolute;
+  top: 12%;
+  left: 85%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+a.button {
+  background-color: rgb(171,165,178);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 3em;
+  font-family: monospace;
 }
