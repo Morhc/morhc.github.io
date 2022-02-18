@@ -2,7 +2,7 @@ h1 {
   text-align: center;
   font-size: 6em;
   font-family: monospace;
-  color: rgb(171,165,178);
+  color: #ABA5B2;
   margin-bottom: .3em;
   text-decoration: bold;
 }
@@ -11,7 +11,7 @@ h2 {
   text-align: center;
   font-size: 4em;
   font-family: monospace;
-  color: rgb(171,165,178);
+  color: #ABA5B2;
   margin-bottom: .1em;
 }
 
@@ -19,7 +19,7 @@ h3 {
   text-align: center;
   font-size: 2em;
   font-family: monospace;
-  color: rgb(171,165,178);
+  color: #ABA5B2;
   margin-bottom: .1em;
 }
 
@@ -28,12 +28,12 @@ h4 {
   text-align: left;
   font-size: 2em;
   font-family: monospace;
-  color: rgb(171,165,178);
+  color: #ABA5B2;
   margin-bottom: .1em;
 }
 
 body{
-  background-color: rgb(33,37,43);
+  background-color: #21252B;
 }
 
 .monospace{
