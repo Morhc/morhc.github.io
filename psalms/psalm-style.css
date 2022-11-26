@@ -112,12 +112,22 @@ main > article > .article-section {
     height: 100%;
 }
 
-main > article > .article-description-section,
+main > article > .article-text-section {
+    padding: 3rem;
+    text-align: center;
+    overflow-y: auto;
+}
+
+main > article > .article-ntref-section,
 main > article > .article-nav-section {
     border-left: 1px solid var(--border-color);
+    padding: 3rem;
+    text-align: center;
 }
 
 main > article > .article-title-section,
 main > article > .article-nav-section {
     border-top: 1px solid var(--border-color);
+    padding: 3rem;
+    text-align: center;
 }
