@@ -1,33 +1,42 @@
+.monospace{
+  font-family: "Lucida Console", Courier, monospace;
+}
+
+:root {
+    --font-color: #ABA5B2;
+    --font-family: monospace;
+}
+
+
+
+h1, h2, h3, h4, p {
+    font-family: var(--font-family);
+    color: var(--font-color);
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
 h1 {
-  text-align: center;
   font-size: 6em;
-  font-family: monospace;
-  color: #ABA5B2;
   margin-bottom: .3em;
   text-decoration: bold;
 }
 
 h2 {
-  text-align: center;
   font-size: 4em;
-  font-family: monospace;
-  color: #ABA5B2;
   margin-bottom: .1em;
 }
 
 h3 {
-  text-align: center;
   font-size: 2em;
-  font-family: monospace;
-  color: #ABA5B2;
   margin-bottom: .1em;
 }
 
 h4 {
   text-align: left;
   font-size: 2em;
-  font-family: monospace;
-  color: #ABA5B2;
   margin-bottom: .1em;
 }
 
@@ -35,10 +44,12 @@ body{
   background-color: #21252B;
 }
 
-a{text-decoration: none;}
+a{
+    text-decoration: none;
+}
 
 a:link {
-  color: #ABA5B2;
+  color: var(--font-color);
   background-color: transparent;
   text-decoration: none;
 }
@@ -53,10 +64,6 @@ a:hover {
   color: #658354;
   background-color: transparent;
   text-decoration: underline;
-}
-
-.monospace{
-  font-family: "Lucida Console", Courier, monospace;\
 }
 
 
@@ -77,5 +84,5 @@ a.button {
   text-decoration: none;
   display: inline-block;
   font-size: 3em;
-  font-family: monospace;
+  font-family: var(--font-family);;
 }
