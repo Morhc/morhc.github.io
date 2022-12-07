@@ -23,7 +23,6 @@ h3 {
   margin-bottom: .1em;
 }
 
-
 h4 {
   text-align: left;
   font-size: 2em;
@@ -34,6 +33,26 @@ h4 {
 
 body{
   background-color: #21252B;
+}
+
+a{text-decoration: none;}
+
+a:link {
+  color: #ABA5B2;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #9966CB;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #658354;
+  background-color: transparent;
+  text-decoration: underline;
 }
 
 .monospace{
