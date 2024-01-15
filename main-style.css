@@ -6,7 +6,7 @@
     --font-color: #ABA5B2;
     --font-family: monospace;
     --background-color: #21252B;
-    --base-font-size: calc(1em + 0.5vw);
+    --base-font-size: calc(0.1em + 1.25vw);
 }
 
 .nav {
@@ -54,7 +54,7 @@ h3 {
 
 h4, p {
   text-align: left;
-  font-size: calc( var(--base-font-size));
+  font-size: calc(var(--base-font-size));
   margin-bottom: .1em;
 }
 
