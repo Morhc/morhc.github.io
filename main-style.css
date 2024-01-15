@@ -13,7 +13,8 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
   border-bottom: 1px solid var(--font-color);
 }
 
@@ -24,14 +25,6 @@
 
 .nav-left a:visited, .nav-right a:visited {
   color: var(--font-color);
-}
-
-.dropdown-button {
-  background: none;
-  border: none;
-  cursor: pointer;
-  color: var(--font-color);
-  font-family: var(--font-family);
 }
 
 h1, h2, h3, h4, p {
@@ -63,6 +56,10 @@ h4, p {
   text-align: left;
   font-size: calc( var(--base-font-size));
   margin-bottom: .1em;
+}
+
+p.small-text {
+  font-size: calc(0.75*var(--base-font-size));
 }
 
 footer {
