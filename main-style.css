@@ -63,6 +63,10 @@ p.small-text {
   font-size: calc(var(--minimum-fixed-font-size) + 0.4*var(--base-font-size));
 }
 
+p.very-small-text {
+  font-size: calc(0.7*var(--minimum-fixed-font-size) + 0.4*var(--base-font-size));
+}
+
 article {
   padding-left: 5%;
   padding-right: 5%;
@@ -85,9 +89,9 @@ footer {
   position: fixed;
   left: 0;
   bottom: 0;
-  width: calc(100% - 2*20px);
-  margin-left: 10px; 
-  margin-right: 10px;
+  width: 100;
+  margin-left: 0px; 
+  margin-right: 0px;
   background-color: var(--background-color);
   color: white;
   text-align: center;
