@@ -114,6 +114,19 @@ a{
     text-decoration: none;
 }
 
+a.boxed-link {
+  display: inline-block;
+  padding: 6px 14px;
+  border: 1px solid #ABA5B2;         /* Subtle dark border */
+  border-radius: 6px;             /* Slightly rounded corners */
+  background: #21252B;               /* White background */
+  color: #ABA5B2;                    /* Dark text */
+  text-decoration: none;          /* No underline */
+  font-family: inherit;           /* Use site font */
+  font-size: 1em;                 /* Match site text size */
+  transition: background 0.2s, color 0.2s, border-color 0.2s;
+}
+
 a:link {
   color: var(--font-color);
   background-color: transparent;
