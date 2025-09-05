@@ -115,8 +115,8 @@ a{
 }
 
 a.boxed-link {
-  display: inline-block;
-  padding: 6px 14px;
+  /* display: inline-block; */
+  padding: 1px 14px;
   border: 1px solid #ABA5B2;         /* Subtle dark border */
   border-radius: 6px;             /* Slightly rounded corners */
   background: #21252B;               /* White background */
