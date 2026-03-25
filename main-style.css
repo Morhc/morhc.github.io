@@ -186,7 +186,7 @@ a{
 
 a.boxed-link {
   /* display: inline-block; */
-  padding: 1px 4px;
+  padding: 1px 10px;
   border: 1px solid var(--font-color);         /* Subtle dark border */
   border-radius: 20px;             /* rounded corners */
   background: var(--background-color);               /* White background */
