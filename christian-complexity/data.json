@@ -1,0 +1,1810 @@
+[
+  {
+    "source": "The Passion Narrative",
+    "early": 30,
+    "late": 60,
+    "category": "Other",
+    "further category": "Hypothesized Source",
+    "link": "https://www.earlychristianwritings.com/passion.html"
+  },
+  {
+    "source": "Lost Sayings Gospel Q",
+    "early": 40,
+    "late": 80,
+    "category": "Other",
+    "further category": "Hypothesized Source",
+    "link": "https://www.earlychristianwritings.com/q.html"
+  },
+  {
+    "source": "1 Thessalonians",
+    "early": 50,
+    "late": 60,
+    "category": "New Testament",
+    "further category": "Epistles of Paul",
+    "link": "https://www.earlychristianwritings.com/1thessalonians.html"
+  },
+  {
+    "source": "Philippians",
+    "early": 50,
+    "late": 60,
+    "category": "New Testament",
+    "further category": "Epistles of Paul",
+    "link": "https://www.earlychristianwritings.com/philippians.html"
+  },
+  {
+    "source": "Galatians",
+    "early": 50,
+    "late": 60,
+    "category": "New Testament",
+    "further category": "Epistles of Paul",
+    "link": "https://www.earlychristianwritings.com/galatians.html"
+  },
+  {
+    "source": "1 Corinthians",
+    "early": 50,
+    "late": 60,
+    "category": "New Testament",
+    "further category": "Epistles of Paul",
+    "link": "https://www.earlychristianwritings.com/1corinthians.html"
+  },
+  {
+    "source": "2 Corinthians",
+    "early": 50,
+    "late": 60,
+    "category": "New Testament",
+    "further category": "Epistles of Paul",
+    "link": "https://www.earlychristianwritings.com/2corinthians.html"
+  },
+  {
+    "source": "Romans",
+    "early": 50,
+    "late": 60,
+    "category": "New Testament",
+    "further category": "Epistles of Paul",
+    "link": "https://www.earlychristianwritings.com/romans.html"
+  },
+  {
+    "source": "Philemon",
+    "early": 50,
+    "late": 60,
+    "category": "New Testament",
+    "further category": "Epistles of Paul",
+    "link": "https://www.earlychristianwritings.com/philemon.html"
+  },
+  {
+    "source": "Colossians",
+    "early": 50,
+    "late": 80,
+    "category": "New Testament",
+    "further category": "Contested Epistles of Paul",
+    "link": "https://www.earlychristianwritings.com/colossians.html"
+  },
+  {
+    "source": "Signs Gospel",
+    "early": 50,
+    "late": 90,
+    "category": "Other",
+    "further category": "Hypothesized Source",
+    "link": "https://www.earlychristianwritings.com/signs.html"
+  },
+  {
+    "source": "Epistle to the Hebrews",
+    "early": 50,
+    "late": 95,
+    "category": "New Testament",
+    "further category": "General Epistles",
+    "link": "https://www.earlychristianwritings.com/hebrews.html"
+  },
+  {
+    "source": "Didache",
+    "early": 50,
+    "late": 120,
+    "category": "Apocrypha",
+    "further category": "Apostolic Fathers",
+    "link": "https://www.earlychristianwritings.com/didache.html"
+  },
+  {
+    "source": "Gospel of Thomas",
+    "early": 50,
+    "late": 140,
+    "category": "Apocrypha",
+    "further category": "Gospels",
+    "link": "https://www.earlychristianwritings.com/thomas.html"
+  },
+  {
+    "source": "Oxyrhynchus 1224 Gospel",
+    "early": 50,
+    "late": 140,
+    "category": "Apocrypha",
+    "further category": "Gospel Fragments",
+    "link": "https://www.earlychristianwritings.com/oxyrhynchus1224.html"
+  },
+  {
+    "source": "Apocalypses of Adam",
+    "early": 50,
+    "late": 150,
+    "category": "Gnostics",
+    "further category": "Apocalypses",
+    "link": "https://www.earlychristianwritings.com/apocalypseadam.html"
+  },
+  {
+    "source": "Eugnostos the Blessed",
+    "early": 50,
+    "late": 150,
+    "category": "Gnostics",
+    "further category": "Additional Nag Hammadi",
+    "link": "https://www.earlychristianwritings.com/eugnostos.html"
+  },
+  {
+    "source": "Sophia of Jesus Christ",
+    "early": 50,
+    "late": 200,
+    "category": "Gnostics",
+    "further category": "Dialogues with Jesus",
+    "link": "https://www.earlychristianwritings.com/sophia.html"
+  },
+  {
+    "source": "Gospel of Mark",
+    "early": 65,
+    "late": 80,
+    "category": "New Testament",
+    "further category": "Gospels",
+    "link": "https://www.earlychristianwritings.com/mark.html"
+  },
+  {
+    "source": "Epistle of James",
+    "early": 70,
+    "late": 100,
+    "category": "New Testament",
+    "further category": "General Epistles",
+    "link": "https://www.earlychristianwritings.com/james.html"
+  },
+  {
+    "source": "Egerton Gospel",
+    "early": 70,
+    "late": 120,
+    "category": "Apocrypha",
+    "further category": "Gospels",
+    "link": "https://www.earlychristianwritings.com/egerton.html"
+  },
+  {
+    "source": "Gospel of Peter",
+    "early": 70,
+    "late": 160,
+    "category": "Apocrypha",
+    "further category": "Gospels",
+    "link": "https://www.earlychristianwritings.com/gospelpeter.html"
+  },
+  {
+    "source": "Secret Mark",
+    "early": 70,
+    "late": 160,
+    "category": "Apocrypha",
+    "further category": "Gospel Fragments",
+    "link": "https://www.earlychristianwritings.com/secretmark.html"
+  },
+  {
+    "source": "Fayyum Fragment",
+    "early": 70,
+    "late": 200,
+    "category": "Apocrypha",
+    "further category": "Gospel Fragments",
+    "link": "https://www.earlychristianwritings.com/fayyum.html"
+  },
+  {
+    "source": "Testaments of the Twelve Patriarchs",
+    "early": 70,
+    "late": 200,
+    "category": "Other",
+    "further category": "Jewish/Christian",
+    "link": "https://www.earlychristianwritings.com/patriarchs.html"
+  },
+  {
+    "source": "Mara Bar Serapion",
+    "early": 73,
+    "late": 200,
+    "category": "Other",
+    "further category": "Pagan and Jewish",
+    "link": "https://www.earlychristianwritings.com/mara.html"
+  },
+  {
+    "source": "2 Thessalonians",
+    "early": 80,
+    "late": 100,
+    "category": "New Testament",
+    "further category": "Contested Epistles of Paul",
+    "link": "https://www.earlychristianwritings.com/2thessalonians.html"
+  },
+  {
+    "source": "Ephesians",
+    "early": 80,
+    "late": 100,
+    "category": "New Testament",
+    "further category": "Contested Epistles of Paul",
+    "link": "https://www.earlychristianwritings.com/ephesians.html"
+  },
+  {
+    "source": "Gospel of Matthew",
+    "early": 80,
+    "late": 100,
+    "category": "New Testament",
+    "further category": "Gospels",
+    "link": "https://www.earlychristianwritings.com/matthew.html"
+  },
+  {
+    "source": "1 Peter",
+    "early": 80,
+    "late": 110,
+    "category": "New Testament",
+    "further category": "General Epistles",
+    "link": "https://www.earlychristianwritings.com/1peter.html"
+  },
+  {
+    "source": "Epistle of Barnabas",
+    "early": 80,
+    "late": 120,
+    "category": "Church Fathers",
+    "further category": "Apostolic Fathers",
+    "link": "https://www.earlychristianwritings.com/barnabas.html"
+  },
+  {
+    "source": "Gospel of Luke",
+    "early": 80,
+    "late": 130,
+    "category": "New Testament",
+    "further category": "Gospels",
+    "link": "https://www.earlychristianwritings.com/luke.html"
+  },
+  {
+    "source": "Acts of the Apostles",
+    "early": 80,
+    "late": 130,
+    "category": "New Testament",
+    "further category": "Apostolic Acts",
+    "link": "https://www.earlychristianwritings.com/acts.html"
+  },
+  {
+    "source": "1 Clement",
+    "early": 80,
+    "late": 140,
+    "category": "Church Fathers",
+    "further category": "Apostolic Fathers",
+    "link": "https://www.earlychristianwritings.com/1clement.html"
+  },
+  {
+    "source": "Gospel of the Egyptians",
+    "early": 80,
+    "late": 150,
+    "category": "Apocrypha",
+    "further category": "Gospel Fragments",
+    "link": "https://www.earlychristianwritings.com/gospelegyptians.html"
+  },
+  {
+    "source": "Gospel of the Hebrews",
+    "early": 80,
+    "late": 150,
+    "category": "Apocrypha",
+    "further category": "Gospel Fragments",
+    "link": "https://www.earlychristianwritings.com/gospelhebrews.html"
+  },
+  {
+    "source": "Christian Sibyllines",
+    "early": 80,
+    "late": 250,
+    "category": "Other",
+    "further category": "Jewish/Christian",
+    "link": "https://www.earlychristianwritings.com/sibylline.html"
+  },
+  {
+    "source": "Revelation",
+    "early": 90,
+    "late": 95,
+    "category": "New Testament",
+    "further category": "Apocalypses",
+    "link": "https://www.earlychristianwritings.com/revelation.html"
+  },
+  {
+    "source": "Gospel of John",
+    "early": 90,
+    "late": 120,
+    "category": "New Testament",
+    "further category": "Gospels",
+    "link": "https://www.earlychristianwritings.com/john.html"
+  },
+  {
+    "source": "1 John",
+    "early": 90,
+    "late": 120,
+    "category": "New Testament",
+    "further category": "General Epistles",
+    "link": "https://www.earlychristianwritings.com/1john.html"
+  },
+  {
+    "source": "2 John",
+    "early": 90,
+    "late": 120,
+    "category": "New Testament",
+    "further category": "General Epistles",
+    "link": "https://www.earlychristianwritings.com/2john.html"
+  },
+  {
+    "source": "3 John",
+    "early": 90,
+    "late": 120,
+    "category": "New Testament",
+    "further category": "General Epistles",
+    "link": "https://www.earlychristianwritings.com/3john.html"
+  },
+  {
+    "source": "Epistle of Jude",
+    "early": 90,
+    "late": 120,
+    "category": "New Testament",
+    "further category": "General Epistles",
+    "link": "https://www.earlychristianwritings.com/jude.html"
+  },
+  {
+    "source": "Flavius Josephus",
+    "early": 93,
+    "late": 93,
+    "category": "Other",
+    "further category": "Pagan and Jewish",
+    "link": "https://www.earlychristianwritings.com/josephus.html"
+  },
+  {
+    "source": "1 Timothy",
+    "early": 100,
+    "late": 150,
+    "category": "New Testament",
+    "further category": "Pseudonymous Epistles of Paul",
+    "link": "https://www.earlychristianwritings.com/1timothy.html"
+  },
+  {
+    "source": "2 Timothy",
+    "early": 100,
+    "late": 150,
+    "category": "New Testament",
+    "further category": "Pseudonymous Epistles of Paul",
+    "link": "https://www.earlychristianwritings.com/2timothy.html"
+  },
+  {
+    "source": "Titus",
+    "early": 100,
+    "late": 150,
+    "category": "New Testament",
+    "further category": "Pseudonymous Epistles of Paul",
+    "link": "https://www.earlychristianwritings.com/titus.html"
+  },
+  {
+    "source": "Apocalypses of Peter",
+    "early": 100,
+    "late": 150,
+    "category": "Apocrypha",
+    "further category": "Apocalypses",
+    "link": "https://www.earlychristianwritings.com/apocalypsepeter.html"
+  },
+  {
+    "source": "Secret Book of James",
+    "early": 100,
+    "late": 150,
+    "category": "Gnostics",
+    "further category": "Dialogues with Jesus",
+    "link": "https://www.earlychristianwritings.com/secretjames.html"
+  },
+  {
+    "source": "Preaching of Peter",
+    "early": 100,
+    "late": 150,
+    "category": "Apocrypha",
+    "further category": "Apostolic Acts",
+    "link": "https://www.earlychristianwritings.com/preachingpeter.html"
+  },
+  {
+    "source": "Gospel of the Ebionites",
+    "early": 100,
+    "late": 160,
+    "category": "Apocrypha",
+    "further category": "Gospel Fragments",
+    "link": "https://www.earlychristianwritings.com/gospelebionites.html"
+  },
+  {
+    "source": "Gospel of the Nazoreans",
+    "early": 100,
+    "late": 160,
+    "category": "Apocrypha",
+    "further category": "Gospel Fragments",
+    "link": "https://www.earlychristianwritings.com/gosplenazoreans.html"
+  },
+  {
+    "source": "Shepherd of Hermas",
+    "early": 100,
+    "late": 160,
+    "category": "Church Fathers",
+    "further category": "Apostolic Fathers",
+    "link": "https://www.earlychristianwritings.com/shepherd.html"
+  },
+  {
+    "source": "2 Peter",
+    "early": 100,
+    "late": 160,
+    "category": "New Testament",
+    "further category": "General Epistles",
+    "link": "https://www.earlychristianwritings.com/2peter.html"
+  },
+  {
+    "source": "Odes of Solomon",
+    "early": 100,
+    "late": 200,
+    "category": "Other",
+    "further category": "Jewish/Christian",
+    "link": "https://www.earlychristianwritings.com/odes.html"
+  },
+  {
+    "source": "Gospel of Eve",
+    "early": 100,
+    "late": 200,
+    "category": "Gnostics",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/gospeleve.html"
+  },
+  {
+    "source": "Thunder, Perfect Mind",
+    "early": 100,
+    "late": 230,
+    "category": "Gnostics",
+    "further category": "Additional Nag Hammadi",
+    "link": "https://www.earlychristianwritings.com/thunder.html"
+  },
+  {
+    "source": "Book of Elchasai",
+    "early": 101,
+    "late": 220,
+    "category": "Other",
+    "further category": "Jewish/Christian",
+    "link": "https://www.earlychristianwritings.com/elchasai.html"
+  },
+  {
+    "source": "Ignatius of Antioch",
+    "early": 105,
+    "late": 115,
+    "category": "Church Fathers",
+    "further category": "Apostolic Fathers",
+    "link": "https://www.earlychristianwritings.com/ignatius.html"
+  },
+  {
+    "source": "Polycarp to the Philippians",
+    "early": 110,
+    "late": 140,
+    "category": "Church Fathers",
+    "further category": "Apostolic Fathers",
+    "link": "https://www.earlychristianwritings.com/polycarp.html"
+  },
+  {
+    "source": "Papias",
+    "early": 110,
+    "late": 140,
+    "category": "Church Fathers",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/papias.html"
+  },
+  {
+    "source": "Oxyrhynchus 840 Gospel",
+    "early": 110,
+    "late": 160,
+    "category": "Apocrypha",
+    "further category": "Gospels",
+    "link": "https://www.earlychristianwritings.com/oxyrhynchus840.html"
+  },
+  {
+    "source": "Traditions of Matthias",
+    "early": 110,
+    "late": 160,
+    "category": "Apocrypha",
+    "further category": "Gospel Fragments",
+    "link": "https://www.earlychristianwritings.com/traditionsmatthias.html"
+  },
+  {
+    "source": "Pliny the Younger",
+    "early": 111,
+    "late": 112,
+    "category": "Other",
+    "further category": "Pagan and Jewish",
+    "link": "https://www.earlychristianwritings.com/pliny.html"
+  },
+  {
+    "source": "Suetonius",
+    "early": 115,
+    "late": 115,
+    "category": "Other",
+    "further category": "Pagan and Jewish",
+    "link": "https://www.earlychristianwritings.com/suetonius.html"
+  },
+  {
+    "source": "Tacitus",
+    "early": 115,
+    "late": 115,
+    "category": "Other",
+    "further category": "Pagan and Jewish",
+    "link": "https://www.earlychristianwritings.com/tacitus.html"
+  },
+  {
+    "source": "Quadratus of Athens",
+    "early": 120,
+    "late": 130,
+    "category": "Church Fathers",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/quadratus.html"
+  },
+  {
+    "source": "Apology of Aristides",
+    "early": 120,
+    "late": 130,
+    "category": "Church Fathers",
+    "further category": "Apologists",
+    "link": "https://www.earlychristianwritings.com/aristides.html"
+  },
+  {
+    "source": "Basilides",
+    "early": 120,
+    "late": 140,
+    "category": "Gnostics",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/basilides.html"
+  },
+  {
+    "source": "Naassene Fragment",
+    "early": 120,
+    "late": 140,
+    "category": "Gnostics",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/naassene.html"
+  },
+  {
+    "source": "Valentinus",
+    "early": 120,
+    "late": 160,
+    "category": "Gnostics",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/valentinus.html"
+  },
+  {
+    "source": "Apocryphon of John",
+    "early": 120,
+    "late": 180,
+    "category": "Gnostics",
+    "further category": "Additional Nag Hammadi",
+    "link": "https://www.earlychristianwritings.com/apocryphonjohn.html"
+  },
+  {
+    "source": "Gospel of Mary",
+    "early": 120,
+    "late": 180,
+    "category": "Gnostics",
+    "further category": "Dialogues with Jesus",
+    "link": "https://www.earlychristianwritings.com/gospelmary.html"
+  },
+  {
+    "source": "Dialogue of the Savior",
+    "early": 120,
+    "late": 180,
+    "category": "Gnostics",
+    "further category": "Dialogues with Jesus",
+    "link": "https://www.earlychristianwritings.com/dialoguesavior.html"
+  },
+  {
+    "source": "Gospel of the Savior",
+    "early": 120,
+    "late": 180,
+    "category": "Gnostics",
+    "further category": "Dialogues with Jesus",
+    "link": "https://www.earlychristianwritings.com/gospelsavior.html"
+  },
+  {
+    "source": "2nd Apocalypses of James",
+    "early": 120,
+    "late": 180,
+    "category": "Gnostics",
+    "further category": "Apocalypses",
+    "link": "https://www.earlychristianwritings.com/apocalypsejames2.html"
+  },
+  {
+    "source": "Trimorphic Protennoia",
+    "early": 120,
+    "late": 180,
+    "category": "Gnostics",
+    "further category": "Additional Nag Hammadi",
+    "link": "https://www.earlychristianwritings.com/trimorphic.html"
+  },
+  {
+    "source": "Gospel of Perfection",
+    "early": 120,
+    "late": 180,
+    "category": "Apocrypha",
+    "further category": "Gospels",
+    "link": "https://www.earlychristianwritings.com/perfection.html"
+  },
+  {
+    "source": "Genna Marias",
+    "early": 120,
+    "late": 200,
+    "category": "Gnostics",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/gennamarias.html"
+  },
+  {
+    "source": "Marcion",
+    "early": 130,
+    "late": 140,
+    "category": "Gnostics",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/marcion.html"
+  },
+  {
+    "source": "Aristo of Pella",
+    "early": 130,
+    "late": 150,
+    "category": "Church Fathers",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/marcion.html"
+  },
+  {
+    "source": "Epiphanes on Righteousness",
+    "early": 130,
+    "late": 160,
+    "category": "Gnostics",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/epiphanes.html"
+  },
+  {
+    "source": "Ophite Diagarams",
+    "early": 130,
+    "late": 160,
+    "category": "Gnostics",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/ophite.html"
+  },
+  {
+    "source": "2 Clement",
+    "early": 130,
+    "late": 160,
+    "category": "Church Fathers",
+    "further category": "Apostolic Fathers",
+    "link": "https://www.earlychristianwritings.com/2clement.html"
+  },
+  {
+    "source": "Gospel of Judas",
+    "early": 130,
+    "late": 170,
+    "category": "Gnostics",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/gospeljudas.html"
+  },
+  {
+    "source": "Epistle of Mathetes to Diognetus",
+    "early": 130,
+    "late": 200,
+    "category": "Church Fathers",
+    "further category": "Apostolic Fathers",
+    "link": "https://www.earlychristianwritings.com/diognetus.html"
+  },
+  {
+    "source": "Epistula Apostolorum",
+    "early": 140,
+    "late": 150,
+    "category": "Apocrypha",
+    "further category": "Gospels",
+    "link": "https://www.earlychristianwritings.com/apostolorum.html"
+  },
+  {
+    "source": "Ptolemy",
+    "early": 140,
+    "late": 160,
+    "category": "Gnostics",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/ptolemy.html"
+  },
+  {
+    "source": "Isidore",
+    "early": 140,
+    "late": 160,
+    "category": "Gnostics",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/isidore.html"
+  },
+  {
+    "source": "Fronto",
+    "early": 140,
+    "late": 170,
+    "category": "Other",
+    "further category": "Pagan and Jewish",
+    "link": "https://www.earlychristianwritings.com/fronto.html"
+  },
+  {
+    "source": "Infancy Gospel of James",
+    "early": 140,
+    "late": 170,
+    "category": "Apocrypha",
+    "further category": "Gospels",
+    "link": "https://www.earlychristianwritings.com/infancyjames.html"
+  },
+  {
+    "source": "Infancy Gospel of Thomas",
+    "early": 140,
+    "late": 170,
+    "category": "Apocrypha",
+    "further category": "Gospels",
+    "link": "https://www.earlychristianwritings.com/infancythomas.html"
+  },
+  {
+    "source": "Gospel of Truth",
+    "early": 140,
+    "late": 180,
+    "category": "Gnostics",
+    "further category": "Additional Nag Hammadi",
+    "link": "https://www.earlychristianwritings.com/gospeltruth.html"
+  },
+  {
+    "source": "Martyrdom of Polycarp",
+    "early": 150,
+    "late": 160,
+    "category": "Church Fathers",
+    "further category": "Apostolic Fathers",
+    "link": "https://www.earlychristianwritings.com/martyrdompolycarp.html"
+  },
+  {
+    "source": "Justin Martyr",
+    "early": 150,
+    "late": 160,
+    "category": "Church Fathers",
+    "further category": "Apologists",
+    "link": "https://www.earlychristianwritings.com/justin.html"
+  },
+  {
+    "source": "Excerpts of Theodotus",
+    "early": 150,
+    "late": 180,
+    "category": "Gnostics",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/theodotus.html"
+  },
+  {
+    "source": "Heracleon",
+    "early": 150,
+    "late": 180,
+    "category": "Gnostics",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/heracleon.html"
+  },
+  {
+    "source": "Ascension of Isaiah",
+    "early": 150,
+    "late": 200,
+    "category": "Other",
+    "further category": "Jewish/Christian",
+    "link": "https://www.earlychristianwritings.com/ascension.html"
+  },
+  {
+    "source": "Interpretation of Knowledge",
+    "early": 150,
+    "late": 200,
+    "category": "Gnostics",
+    "further category": "Additional Nag Hammadi",
+    "link": "https://www.earlychristianwritings.com/interpretation.html"
+  },
+  {
+    "source": "Testimony of Truth",
+    "early": 150,
+    "late": 200,
+    "category": "Gnostics",
+    "further category": "Additional Nag Hammadi",
+    "link": "https://www.earlychristianwritings.com/truth.html"
+  },
+  {
+    "source": "Acts of Peter",
+    "early": 150,
+    "late": 200,
+    "category": "Apocrypha",
+    "further category": "Apostolic Acts",
+    "link": "https://www.earlychristianwritings.com/actspeter.html"
+  },
+  {
+    "source": "Acts of John",
+    "early": 150,
+    "late": 200,
+    "category": "Apocrypha",
+    "further category": "Apostolic Acts",
+    "link": "https://www.earlychristianwritings.com/actsjohn.html"
+  },
+  {
+    "source": "Acts of Paul",
+    "early": 150,
+    "late": 200,
+    "category": "Apocrypha",
+    "further category": "Apostolic Acts",
+    "link": "https://www.earlychristianwritings.com/actspaul.html"
+  },
+  {
+    "source": "Acts of Andrew",
+    "early": 150,
+    "late": 200,
+    "category": "Apocrypha",
+    "further category": "Apostolic Acts",
+    "link": "https://www.earlychristianwritings.com/actsandrew.html"
+  },
+  {
+    "source": "Acts of Peter and the Twelve",
+    "early": 150,
+    "late": 225,
+    "category": "Apocrypha",
+    "further category": "Apostolic Acts",
+    "link": "https://www.earlychristianwritings.com/actspetertwelve.html"
+  },
+  {
+    "source": "Book of Thomas the Contender",
+    "early": 150,
+    "late": 225,
+    "category": "Apocrypha",
+    "further category": "Apostolic Acts",
+    "link": "https://www.earlychristianwritings.com/contender.html"
+  },
+  {
+    "source": "Paraphrase of Shem",
+    "early": 150,
+    "late": 250,
+    "category": "Gnostics",
+    "further category": "Additional Nag Hammadi",
+    "link": "https://www.earlychristianwritings.com/shem.html"
+  },
+  {
+    "source": "Fifth and Sixth Books of Esra",
+    "early": 150,
+    "late": 250,
+    "category": "Apocrypha",
+    "further category": "Martyrologies",
+    "link": "https://www.earlychristianwritings.com/esra.html"
+  },
+  {
+    "source": "Authoritative Teaching",
+    "early": 150,
+    "late": 300,
+    "category": "Gnostics",
+    "further category": "Additional Nag Hammadi",
+    "link": "https://www.earlychristianwritings.com/authoritative.html"
+  },
+  {
+    "source": "Coptic Apocalypses of Paul",
+    "early": 150,
+    "late": 300,
+    "category": "Gnostics",
+    "further category": "Apocalypses",
+    "link": "https://www.earlychristianwritings.com/nhlapocalypsepaul.html"
+  },
+  {
+    "source": "Prayer of the Apostle Paul",
+    "early": 150,
+    "late": 300,
+    "category": "Gnostics",
+    "further category": "Additional Nag Hammadi",
+    "link": "https://www.earlychristianwritings.com/prayerpaul.html"
+  },
+  {
+    "source": "Discourse on the Eighth and Ninth",
+    "early": 150,
+    "late": 300,
+    "category": "Gnostics",
+    "further category": "Additional Nag Hammadi",
+    "link": "https://www.earlychristianwritings.com/eighthninth.html"
+  },
+  {
+    "source": "Melchizedek",
+    "early": 150,
+    "late": 300,
+    "category": "Gnostics",
+    "further category": "Additional Nag Hammadi",
+    "link": "https://www.earlychristianwritings.com/melchizedek.html"
+  },
+  {
+    "source": "Preaching of Paul",
+    "early": 150,
+    "late": 350,
+    "category": "Apocrypha",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/preachingpaul.html"
+  },
+  {
+    "source": "Epistle to the Laodiceans",
+    "early": 150,
+    "late": 350,
+    "category": "Apocrypha",
+    "further category": "Contested Epistles of Paul",
+    "link": "https://www.earlychristianwritings.com/laodiceans.html"
+  },
+  {
+    "source": "Questions of Mary",
+    "early": 150,
+    "late": 350,
+    "category": "Gnostics",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/questionsmary.html"
+  },
+  {
+    "source": "Allogenese, the Stranger",
+    "early": 150,
+    "late": 350,
+    "category": "Gnostics",
+    "further category": "Additional Nag Hammadi",
+    "link": "https://www.earlychristianwritings.com/allogenes.html"
+  },
+  {
+    "source": "Hypsiphrone",
+    "early": 150,
+    "late": 350,
+    "category": "Gnostics",
+    "further category": "Additional Nag Hammadi",
+    "link": "https://www.earlychristianwritings.com/hypsiphrone.html"
+  },
+  {
+    "source": "Valentinian Exposition",
+    "early": 150,
+    "late": 350,
+    "category": "Gnostics",
+    "further category": "Additional Nag Hammadi",
+    "link": "https://www.earlychristianwritings.com/valentinian.html"
+  },
+  {
+    "source": "Acts of Peter",
+    "early": 150,
+    "late": 350,
+    "category": "Apocrypha",
+    "further category": "Apostolic Acts",
+    "link": "https://www.earlychristianwritings.com/actpeter.html"
+  },
+  {
+    "source": "Concept of Our Great Power",
+    "early": 150,
+    "late": 360,
+    "category": "Gnostics",
+    "further category": "Additional Nag Hammadi",
+    "link": "https://www.earlychristianwritings.com/greatpower.html"
+  },
+  {
+    "source": "Acts of Pilate",
+    "early": 150,
+    "late": 400,
+    "category": "Apocrypha",
+    "further category": "Gospels",
+    "link": "https://www.earlychristianwritings.com/actspilate.html"
+  },
+  {
+    "source": "Anti-Marcionite Prologues",
+    "early": 150,
+    "late": 400,
+    "category": "Other",
+    "further category": "Other",
+    "link": "https://www.earlychristianwritings.com/antimarcion.html"
+  },
+  {
+    "source": "Dialogue Between John and Jesus",
+    "early": 150,
+    "late": 400,
+    "category": "Apocrypha",
+    "further category": "Dialogues with Jesus",
+    "link": "https://www.earlychristianwritings.com/dialoguejohnjesus.html"
+  },
+  {
+    "source": "Tatian's Address to the Greeks",
+    "early": 160,
+    "late": 170,
+    "category": "Church Fathers",
+    "further category": "Apologists",
+    "link": "https://www.earlychristianwritings.com/tatian.html"
+  },
+  {
+    "source": "Claudius Apollinaris",
+    "early": 160,
+    "late": 180,
+    "category": "Church Fathers",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/apollinaris.html"
+  },
+  {
+    "source": "Apelles",
+    "early": 160,
+    "late": 180,
+    "category": "Gnostics",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/apelles.html"
+  },
+  {
+    "source": "Julius Cassianus",
+    "early": 160,
+    "late": 180,
+    "category": "Gnostics",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/cassianus.html"
+  },
+  {
+    "source": "Octavius of Minucius Felix",
+    "early": 160,
+    "late": 250,
+    "category": "Church Fathers",
+    "further category": "Apologists",
+    "link": "https://www.earlychristianwritings.com/octavius.html"
+  },
+  {
+    "source": "Acts of Carpus, Papylus, and Agathonice",
+    "early": 161,
+    "late": 180,
+    "category": "Church Fathers",
+    "further category": "Martyrologies",
+    "link": "https://www.earlychristianwritings.com/carpus.html"
+  },
+  {
+    "source": "Melito of Sardis",
+    "early": 165,
+    "late": 175,
+    "category": "Church Fathers",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/melito.html"
+  },
+  {
+    "source": "Hegesippus",
+    "early": 165,
+    "late": 175,
+    "category": "Church Fathers",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/hegesippus.html"
+  },
+  {
+    "source": "Dionysius of Corinth",
+    "early": 165,
+    "late": 175,
+    "category": "Church Fathers",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/dionysius.html"
+  },
+  {
+    "source": "Lucian of Samosata",
+    "early": 165,
+    "late": 175,
+    "category": "Other",
+    "further category": "Pagan and Jewish",
+    "link": "https://www.earlychristianwritings.com/lucian.html"
+  },
+  {
+    "source": "Marcus Aurelius",
+    "early": 167,
+    "late": 167,
+    "category": "Other",
+    "further category": "Pagan and Jewish",
+    "link": "https://www.earlychristianwritings.com/aurelius.html"
+  },
+  {
+    "source": "Diatessaron",
+    "early": 170,
+    "late": 175,
+    "category": "Apocrypha",
+    "further category": "Gospels",
+    "link": "https://www.earlychristianwritings.com/diatessaron.html"
+  },
+  {
+    "source": "Dura-Europos Gospel Harmony",
+    "early": 170,
+    "late": 200,
+    "category": "Apocrypha",
+    "further category": "Gospel Fragments",
+    "link": "https://www.earlychristianwritings.com/dura.html"
+  },
+  {
+    "source": "Muratorian Canon",
+    "early": 170,
+    "late": 200,
+    "category": "Other",
+    "further category": "Other",
+    "link": "https://www.earlychristianwritings.com/muratorian.html"
+  },
+  {
+    "source": "Treatise on the Resurrection",
+    "early": 170,
+    "late": 200,
+    "category": "Gnostics",
+    "further category": "Additional Nag Hammadi",
+    "link": "https://www.earlychristianwritings.com/treatiseres.html"
+  },
+  {
+    "source": "Epistle of Peter to Philip",
+    "early": 170,
+    "late": 220,
+    "category": "Gnostics",
+    "further category": "Apostolic Acts",
+    "link": "https://www.earlychristianwritings.com/petertophilip.html"
+  },
+  {
+    "source": "Thought of Norea",
+    "early": 170,
+    "late": 230,
+    "category": "Gnostics",
+    "further category": "Additional Nag Hammadi",
+    "link": "https://www.earlychristianwritings.com/norea.html"
+  },
+  {
+    "source": "Athenagoras of Athens",
+    "early": 175,
+    "late": 180,
+    "category": "Church Fathers",
+    "further category": "Apologists",
+    "link": "https://www.earlychristianwritings.com/athenagoras.html"
+  },
+  {
+    "source": "Irenaeus of Lyons",
+    "early": 175,
+    "late": 185,
+    "category": "Church Fathers",
+    "further category": "Apostolic Fathers",
+    "link": "https://www.earlychristianwritings.com/irenaeus.html"
+  },
+  {
+    "source": "Rhodon",
+    "early": 175,
+    "late": 185,
+    "category": "Church Fathers",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/rhodon.html"
+  },
+  {
+    "source": "Theophilus of Caesaea",
+    "early": 175,
+    "late": 185,
+    "category": "Church Fathers",
+    "further category": "Apologists",
+    "link": "https://www.earlychristianwritings.com/theophiluscaesarea.html"
+  },
+  {
+    "source": "Galen",
+    "early": 175,
+    "late": 190,
+    "category": "Other",
+    "further category": "Pagan and Jewish",
+    "link": "https://www.earlychristianwritings.com/galen.html"
+  },
+  {
+    "source": "Celsus",
+    "early": 178,
+    "late": 178,
+    "category": "Other",
+    "further category": "Pagan and Jewish",
+    "link": "https://www.earlychristianwritings.com/celsus.html"
+  },
+  {
+    "source": "Epistle from Vienna and Lyons",
+    "early": 178,
+    "late": 178,
+    "category": "Apocrypha",
+    "further category": "Martyrologies",
+    "link": "https://www.earlychristianwritings.com/viennalyons.html"
+  },
+  {
+    "source": "Passion of the Scillitan Martyrs",
+    "early": 180,
+    "late": 180,
+    "category": "Apocrypha",
+    "further category": "Martyrologies",
+    "link": "https://www.earlychristianwritings.com/scillitan.html"
+  },
+  {
+    "source": "Theophilus of Antioch",
+    "early": 180,
+    "late": 185,
+    "category": "Church Fathers",
+    "further category": "Apologists",
+    "link": "https://www.earlychristianwritings.com/theophilus.html"
+  },
+  {
+    "source": "Acts of Apollonius",
+    "early": 180,
+    "late": 185,
+    "category": "Apocrypha",
+    "further category": "Martyrologies",
+    "link": "https://www.earlychristianwritings.com/actsapollonius.html"
+  },
+  {
+    "source": "Bardesanes",
+    "early": 180,
+    "late": 220,
+    "category": "Church Fathers",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/bardesanes.html"
+  },
+  {
+    "source": "Kerygmata Petrou",
+    "early": 180,
+    "late": 220,
+    "category": "Other",
+    "further category": "Other",
+    "link": "https://www.earlychristianwritings.com/kerygmatapetrou.html"
+  },
+  {
+    "source": "Hippolytus of Rome",
+    "early": 180,
+    "late": 230,
+    "category": "Church Fathers",
+    "further category": "Apostolic Fathers",
+    "link": "https://www.earlychristianwritings.com/hippolytus.html"
+  },
+  {
+    "source": "Sentences of Sextus",
+    "early": 180,
+    "late": 230,
+    "category": "Gnostics",
+    "further category": "Additional Nag Hammadi",
+    "link": "https://www.earlychristianwritings.com/sextus.html"
+  },
+  {
+    "source": "1st Apocalypses of James",
+    "early": 180,
+    "late": 250,
+    "category": "Gnostics",
+    "further category": "Additional Nag Hammadi",
+    "link": "https://www.earlychristianwritings.com/apocalypsejames1.html"
+  },
+  {
+    "source": "Gospel of Philip",
+    "early": 180,
+    "late": 250,
+    "category": "Gnostics",
+    "further category": "Additional Nag Hammadi",
+    "link": "https://www.earlychristianwritings.com/gospelphilip.html"
+  },
+  {
+    "source": "Clement of Alexandria",
+    "early": 182,
+    "late": 202,
+    "category": "Church Fathers",
+    "further category": "Apostolic Fathers",
+    "link": "https://www.earlychristianwritings.com/clement.html"
+  },
+  {
+    "source": "Maximus of Jerusalem",
+    "early": 185,
+    "late": 195,
+    "category": "Church Fathers",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/maximus.html"
+  },
+  {
+    "source": "Polycrate of Ephesus",
+    "early": 185,
+    "late": 195,
+    "category": "Church Fathers",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/polycrates.html"
+  },
+  {
+    "source": "Talmud",
+    "early": 188,
+    "late": 217,
+    "category": "Other",
+    "further category": "Pagan and Jewish",
+    "link": "https://www.earlychristianwritings.com/talmud.html"
+  },
+  {
+    "source": "Victor I",
+    "early": 189,
+    "late": 199,
+    "category": "Church Fathers",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/victor.html"
+  },
+  {
+    "source": "Pantaenus",
+    "early": 190,
+    "late": 210,
+    "category": "Church Fathers",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/pantaenus.html"
+  },
+  {
+    "source": "Second Discourse of Great Seth",
+    "early": 190,
+    "late": 230,
+    "category": "Gnostics",
+    "further category": "Additional Nag Hammadi",
+    "link": "https://www.earlychristianwritings.com/greatseth.html"
+  },
+  {
+    "source": "Anonymous Anti-Montanist",
+    "early": 193,
+    "late": 193,
+    "category": "Church Fathers",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/antimontanist.html"
+  },
+  {
+    "source": "Inscription of Abercius",
+    "early": 193,
+    "late": 216,
+    "category": "Other",
+    "further category": "Other",
+    "link": "https://www.earlychristianwritings.com/abercius.html"
+  },
+  {
+    "source": "Tertullian",
+    "early": 197,
+    "late": 220,
+    "category": "Church Fathers",
+    "further category": "Apostolic Fathers",
+    "link": "https://www.earlychristianwritings.com/tertullian.html"
+  },
+  {
+    "source": "Seraphion of Antioch",
+    "early": 200,
+    "late": 210,
+    "category": "Church Fathers",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/serapion.html"
+  },
+  {
+    "source": "Apollonius",
+    "early": 200,
+    "late": 210,
+    "category": "Church Fathers",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/apollonius.html"
+  },
+  {
+    "source": "Caius",
+    "early": 200,
+    "late": 220,
+    "category": "Church Fathers",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/caius.html"
+  },
+  {
+    "source": "Philostratus",
+    "early": 200,
+    "late": 220,
+    "category": "Other",
+    "further category": "Pagan and Jewish",
+    "link": "https://www.earlychristianwritings.com/philostratus.html"
+  },
+  {
+    "source": "Acts of Thomas",
+    "early": 200,
+    "late": 225,
+    "category": "Apocrypha",
+    "further category": "Apostolic Acts",
+    "link": "https://www.earlychristianwritings.com/actsthomas.html"
+  },
+  {
+    "source": "Ammonius of Alexandria",
+    "early": 200,
+    "late": 230,
+    "category": "Church Fathers",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/ammonius.html"
+  },
+  {
+    "source": "Zostrianos",
+    "early": 200,
+    "late": 230,
+    "category": "Gnostics",
+    "further category": "Additional Nag Hammadi",
+    "link": "https://www.earlychristianwritings.com/zostrianos.html"
+  },
+  {
+    "source": "Three Steles of Seth",
+    "early": 200,
+    "late": 230,
+    "category": "Gnostics",
+    "further category": "Additional Nag Hammadi",
+    "link": "https://www.earlychristianwritings.com/steles.html"
+  },
+  {
+    "source": "Exegesis on the Soul",
+    "early": 200,
+    "late": 230,
+    "category": "Gnostics",
+    "further category": "Additional Nag Hammadi",
+    "link": "https://www.earlychristianwritings.com/exegesisonsoul.html"
+  },
+  {
+    "source": "Didascalia",
+    "early": 200,
+    "late": 250,
+    "category": "Apocrypha",
+    "further category": "Other",
+    "link": "https://www.earlychristianwritings.com/didascalia.html"
+  },
+  {
+    "source": "Books of Jeu",
+    "early": 200,
+    "late": 250,
+    "category": "Gnostics",
+    "further category": "Dialogues with Jesus",
+    "link": "https://www.earlychristianwritings.com/jeu.html"
+  },
+  {
+    "source": "Pistis Sophia",
+    "early": 200,
+    "late": 300,
+    "category": "Gnostics",
+    "further category": "Dialogues with Jesus",
+    "link": "https://www.earlychristianwritings.com/pistis.html"
+  },
+  {
+    "source": "Tripartite Tractate",
+    "early": 200,
+    "late": 300,
+    "category": "Gnostics",
+    "further category": "Additional Nag Hammadi",
+    "link": "https://www.earlychristianwritings.com/tripartite.html"
+  },
+  {
+    "source": "Hypostasis of the Archons",
+    "early": 200,
+    "late": 300,
+    "category": "Gnostics",
+    "further category": "Additional Nag Hammadi",
+    "link": "https://www.earlychristianwritings.com/archons.html"
+  },
+  {
+    "source": "Prayer of Thanksgiving",
+    "early": 200,
+    "late": 300,
+    "category": "Gnostics",
+    "further category": "Additional Nag Hammadi",
+    "link": "https://www.earlychristianwritings.com/thanksgiving.html"
+  },
+  {
+    "source": "Coptic Apocalypses of Peter",
+    "early": 200,
+    "late": 300,
+    "category": "Gnostics",
+    "further category": "Apocalypses",
+    "link": "https://www.earlychristianwritings.com/nhlapocalypsepeter.html"
+  },
+  {
+    "source": "Apostolic Church Order",
+    "early": 200,
+    "late": 330,
+    "category": "Church Fathers",
+    "further category": "Apostolic Fathers",
+    "link": "https://www.earlychristianwritings.com/churchorder.html"
+  },
+  {
+    "source": "Holy Book of the Great Invisible Spirit",
+    "early": 200,
+    "late": 350,
+    "category": "Gnostics",
+    "further category": "Additional Nag Hammadi",
+    "link": "https://www.earlychristianwritings.com/greatspirit.html"
+  },
+  {
+    "source": "Monarchian Prologues",
+    "early": 200,
+    "late": 450,
+    "category": "Apocrypha",
+    "further category": "Gospel Fragments",
+    "link": "https://www.earlychristianwritings.com/monarchianprologues.html"
+  },
+  {
+    "source": "Acts of Perpetua and Felicitas",
+    "early": 203,
+    "late": 203,
+    "category": "Apocrypha",
+    "further category": "Martyrologies",
+    "link": "https://www.earlychristianwritings.com/actsperpetua.html"
+  },
+  {
+    "source": "Origen",
+    "early": 203,
+    "late": 250,
+    "category": "Church Fathers",
+    "further category": "Apostolic Fathers",
+    "link": "https://www.earlychristianwritings.com/origen.html"
+  },
+  {
+    "source": "Lucian of Antioch",
+    "early": 210,
+    "late": 245,
+    "category": "Church Fathers",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/lucianantioch.html"
+  },
+  {
+    "source": "Callistus",
+    "early": 217,
+    "late": 222,
+    "category": "Church Fathers",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/callistus.html"
+  },
+  {
+    "source": "Dionysius of Alexandria",
+    "early": 230,
+    "late": 265,
+    "category": "Church Fathers",
+    "further category": "Apostolic Fathers",
+    "link": "https://www.earlychristianwritings.com/dionysiusalexandria.html"
+  },
+  {
+    "source": "Firmillian of Caesarea",
+    "early": 230,
+    "late": 268,
+    "category": "Church Fathers",
+    "further category": "Apostolic Fathers",
+    "link": "https://www.earlychristianwritings.com/firmilian.html"
+  },
+  {
+    "source": "Commodian",
+    "early": 240,
+    "late": 260,
+    "category": "Church Fathers",
+    "further category": "Apostolic Fathers",
+    "link": "https://www.earlychristianwritings.com/commodian.html"
+  },
+  {
+    "source": "Cyprian",
+    "early": 246,
+    "late": 258,
+    "category": "Church Fathers",
+    "further category": "Apostolic Fathers",
+    "link": "https://www.earlychristianwritings.com/cyprian.html"
+  },
+  {
+    "source": "Gospel of Mani",
+    "early": 250,
+    "late": 274,
+    "category": "Gnostics",
+    "further category": "Gospels",
+    "link": "https://www.earlychristianwritings.com/gospelmani.html"
+  },
+  {
+    "source": "Teachings of Silvanus",
+    "early": 250,
+    "late": 300,
+    "category": "Gnostics",
+    "further category": "Additional Nag Hammadi",
+    "link": "https://www.earlychristianwritings.com/silvanus.html"
+  },
+  {
+    "source": "Excerpt from the Perfect Discourse",
+    "early": 250,
+    "late": 300,
+    "category": "Gnostics",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/perfectdiscourse.html"
+  },
+  {
+    "source": "Coptic Apocalypses of Elijah",
+    "early": 250,
+    "late": 350,
+    "category": "Apocrypha",
+    "further category": "Apocalypses",
+    "link": "https://www.earlychristianwritings.com/copticelijah.html"
+  },
+  {
+    "source": "Apocalypses of Paul",
+    "early": 250,
+    "late": 400,
+    "category": "Apocrypha",
+    "further category": "Apocalypses",
+    "link": "https://www.earlychristianwritings.com/apocalypsepaul.html"
+  },
+  {
+    "source": "Pope Cornelius",
+    "early": 251,
+    "late": 253,
+    "category": "Church Fathers",
+    "further category": "Apostolic Fathers",
+    "link": "https://www.earlychristianwritings.com/cornelius.html"
+  },
+  {
+    "source": "Novatian",
+    "early": 251,
+    "late": 158,
+    "category": "Church Fathers",
+    "further category": "Apostolic Fathers",
+    "link": "https://www.earlychristianwritings.com/novatian.html"
+  },
+  {
+    "source": "Pope Stephen",
+    "early": 254,
+    "late": 257,
+    "category": "Church Fathers",
+    "further category": "Apostolic Fathers",
+    "link": "https://www.earlychristianwritings.com/stephen.html"
+  },
+  {
+    "source": "Dionysius of Rome",
+    "early": 259,
+    "late": 268,
+    "category": "Church Fathers",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/dionysiusrome.html"
+  },
+  {
+    "source": "Theognostus",
+    "early": 260,
+    "late": 280,
+    "category": "Church Fathers",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/theognostus.html"
+  },
+  {
+    "source": "Gregory Thaumaturgus",
+    "early": 265,
+    "late": 282,
+    "category": "Church Fathers",
+    "further category": "Apostolic Fathers",
+    "link": "https://www.earlychristianwritings.com/gregory.html"
+  },
+  {
+    "source": "Pope Felix",
+    "early": 269,
+    "late": 274,
+    "category": "Church Fathers",
+    "further category": "Apostolic Fathers",
+    "link": "https://www.earlychristianwritings.com/felix.html"
+  },
+  {
+    "source": "Victorinus of Pettau",
+    "early": 270,
+    "late": 310,
+    "category": "Church Fathers",
+    "further category": "Apostolic Fathers",
+    "link": "https://www.earlychristianwritings.com/victorinus.html"
+  },
+  {
+    "source": "Methodius",
+    "early": 270,
+    "late": 312,
+    "category": "Church Fathers",
+    "further category": "Apostolic Fathers",
+    "link": "https://www.earlychristianwritings.com/methodius.html"
+  },
+  {
+    "source": "Marsanes",
+    "early": 270,
+    "late": 330,
+    "category": "Gnostics",
+    "further category": "Additional Nag Hammadi",
+    "link": "https://www.earlychristianwritings.com/marsanes.html"
+  },
+  {
+    "source": "On the Origin of the World",
+    "early": 270,
+    "late": 330,
+    "category": "Gnostics",
+    "further category": "Additional Nag Hammadi",
+    "link": "https://www.earlychristianwritings.com/originworld.html"
+  },
+  {
+    "source": "De Recta in Deum Fide",
+    "early": 270,
+    "late": 350,
+    "category": "Church Fathers",
+    "further category": "Apologists",
+    "link": "https://www.earlychristianwritings.com/derectaindeumfide.html"
+  },
+  {
+    "source": "Hesychius",
+    "early": 280,
+    "late": 300,
+    "category": "Church Fathers",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/hesychius.html"
+  },
+  {
+    "source": "Pierius",
+    "early": 280,
+    "late": 310,
+    "category": "Church Fathers",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/pierius.html"
+  },
+  {
+    "source": "Pamphilus of Caesarea",
+    "early": 280,
+    "late": 310,
+    "category": "Church Fathers",
+    "further category": "Apologists",
+    "link": "https://www.earlychristianwritings.com/pamphiluscaesarea.html"
+  },
+  {
+    "source": "Arnobius of Sicca",
+    "early": 297,
+    "late": 310,
+    "category": "Church Fathers",
+    "further category": "Apologists",
+    "link": "https://www.earlychristianwritings.com/arnobius.html"
+  },
+  {
+    "source": "Peter of Alexandria",
+    "early": 300,
+    "late": 310,
+    "category": "Church Fathers",
+    "further category": "Apostolic Fathers",
+    "link": "https://www.earlychristianwritings.com/peteralexandria.html"
+  },
+  {
+    "source": "Pseudo-Clementine Homilies",
+    "early": 300,
+    "late": 320,
+    "category": "Apocrypha",
+    "further category": "Apostolic Fathers",
+    "link": "https://www.earlychristianwritings.com/clementinehomilies.html"
+  },
+  {
+    "source": "Eusebius of Caesarea",
+    "early": 300,
+    "late": 340,
+    "category": "Church Fathers",
+    "further category": "Apostolic Fathers",
+    "link": "https://www.earlychristianwritings.com/eusebius.html"
+  },
+  {
+    "source": "Manichean Acts of Leucius Charinus",
+    "early": 300,
+    "late": 350,
+    "category": "Gnostics",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/leucius.html"
+  },
+  {
+    "source": "Correspondence of Paul and Seneca",
+    "early": 300,
+    "late": 390,
+    "category": "Apocrypha",
+    "further category": "Pseudonymous Epistles of Paul",
+    "link": "https://www.earlychristianwritings.com/paulseneca.html"
+  },
+  {
+    "source": "Apocalypses of Thomas",
+    "early": 300,
+    "late": 400,
+    "category": "Apocrypha",
+    "further category": "Apocalypses",
+    "link": "https://www.earlychristianwritings.com/apocalypsethomas.html"
+  },
+  {
+    "source": "Freer Logion",
+    "early": 300,
+    "late": 400,
+    "category": "Apocrypha",
+    "further category": "Gospel Fragments",
+    "link": "https://www.earlychristianwritings.com/freerlogion.html"
+  },
+  {
+    "source": "Gospel of Gamaliel",
+    "early": 300,
+    "late": 600,
+    "category": "Apocrypha",
+    "further category": "Gospels",
+    "link": "https://www.earlychristianwritings.com/gospelgamaliel.html"
+  },
+  {
+    "source": "Lactantius",
+    "early": 303,
+    "late": 316,
+    "category": "Church Fathers",
+    "further category": "Apologists",
+    "link": "https://www.earlychristianwritings.com/lactantius.html"
+  },
+  {
+    "source": "Reticius of Autun",
+    "early": 310,
+    "late": 334,
+    "category": "Church Fathers",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/reticius.html"
+  },
+  {
+    "source": "Pseudo-Clementine Recognitions",
+    "early": 320,
+    "late": 380,
+    "category": "Apocrypha",
+    "further category": "Quoted Authors",
+    "link": "https://www.earlychristianwritings.com/clementinerecognitions.html"
+  }
+]
