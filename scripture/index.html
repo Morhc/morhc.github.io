@@ -1,0 +1,56 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- HEADER -->
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Scripture</title>
+
+    <link rel="stylesheet" href="/main-style.css">
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/img/favicons/favicon.ico">
+</head>
+
+<!-- NAVIGATION BAR -->
+<div class="nav">
+    <div class="nav-left">
+        <p><a href="/" style="text-decoration: none">Home</a></p>
+    </div>
+</div>
+
+<!-- BODY -->
+<body>
+    
+    <h3>SCRIPTURE</h3>
+
+    <p>
+        Unfortunately for myself, I find myself thinking about Christian scripture constantly, ever skeptical of what people tell me is true until I determine it for myself.
+        I have <a href="/thoughts" class="boxed-link">my blog space</a> on this site that I've been using to dump my ideas related to Scripture on it, but I really don't think that it is enough anymore for adequately documenting things.
+        So I have decided to take on an extremely brash project that is some parts collecting what I've read and watched on Scripture and some parts a theological commentary on what to do with these messy texts.
+        For those unaquainted with my thoughts on things, I hold a generally <i>low</i> view of Scripture and don't really think it has much to say to human beings living in the 21<sup>st</sup> century directly.
+        However, I can't disentangle myself from it either.
+        So I thought that I would do my best to provide something that attempts to think about how texts that have been considered Scripture in the Christian tradition.
+        In the ethos of Bp. John Shelby Spong and philosopher Mark C. Taylor: this is an wanderer in the desert's attempt to <i>err</i>, always erring hoping to find some semblemance of truth.
+    </p>
+
+    <section class="search-panel">
+        <form id="scripture-search-form">
+            <div class="search-bar">
+                <input id="scripture-search-input" type="search" placeholder="What's being said about..." aria-label="Search">
+                <button type="submit">Search</button>
+            </div>
+        </form>
+        <div id="scripture-search-status" class="search-status">Search around for my thoughts.</div>
+        <div id="scripture-search-results" class="search-results"></div>
+    </section>
+
+    <section class="folder-section">
+        <div id="scripture-folder-list" class="folder-grid"></div>
+    </section>
+
+    <script src="scripture.js" defer></script>
+</body>
+</html>
