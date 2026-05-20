@@ -18,6 +18,20 @@ const scripturePages = [
         type: "christian"
     },
     {
+        title: "Aim of the Epistle to the Romans",
+        path: "/scripture/romans/",
+        description: "Aims of the epistle to the Romans.",
+        type: "christian",
+        hidden: true,
+    },
+    {
+        title: "Romans 1",
+        path: "/scripture/romans/romans-1/",
+        description: "A commentary on Romans 1.",
+        type: "christian",
+        hidden: true,
+    },
+    {
         title: "Galatians",
         path: "/scripture/galatians/",
         description: "A commentary on Galatians.",
@@ -109,6 +123,10 @@ function renderFolderCards() {
 
     const cards = [];
     scripturePages.forEach((page) => {
+        if (page.hidden) {
+            return;
+        }
+
         const card = document.createElement("div");
         card.className = "folder-card";
         card.setAttribute("draggable", "false");
