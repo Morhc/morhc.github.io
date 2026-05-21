@@ -19,7 +19,7 @@ const scripturePages = [
     },
     {
         title: "Aim of the Epistle to the Romans",
-        path: "/scripture/romans/",
+        path: "/scripture/romans/aims/",
         description: "Aims of the epistle to the Romans.",
         type: "christian",
         hidden: true,
