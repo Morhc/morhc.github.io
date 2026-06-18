@@ -330,15 +330,15 @@ a:hover {
 }
 
 .search-results::-webkit-scrollbar-track {
-  background: rgba(245,229,198,0.65);
+  background: transparent;
   border-radius: 999px;
 }
 
 .search-results::-webkit-scrollbar-thumb {
   background: rgba(78, 56, 32, 0.55);
   border-radius: 999px;
-  border: 2px solid rgba(245,229,198,0.8);
-  box-sizing: border-box;
+  border: none;
+  box-sizing: content-box;
 }
 
 .search-results::-webkit-scrollbar-thumb:hover {
@@ -497,3 +497,46 @@ a:hover {
 .folder-placeholder p {
   margin: 0.45em 0;
 }
+
+/* Global scrollbar styling (WebKit/Blink and Firefox where supported) */
+::-webkit-scrollbar {
+  width: 16px;
+  height: 16px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+  border-radius: 999px;
+}
+
+/* Remove corner background so scrollbars blend with page */
+::-webkit-scrollbar-corner {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(78, 56, 32, 0.55);
+  border-radius: 999px;
+  border: none;
+  box-sizing: content-box;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(78, 56, 32, 0.75);
+}
+
+/* Firefox scrollbar colors */
+html {
+  scrollbar-width: auto;
+  scrollbar-color: rgba(78, 56, 32, 0.55) rgba(245,229,198,0.8);
+}
+
+/* Helper class for links where you want to suppress the browser's statusbar URL
+   Use with caution: anchors with this class will be converted to JS-driven links
+   and will not expose their `href` to the browser (affects SEO/accessibility).
+*/
+a.no-status {
+  cursor: pointer;
+  color: var(--font-color);
+}
+
